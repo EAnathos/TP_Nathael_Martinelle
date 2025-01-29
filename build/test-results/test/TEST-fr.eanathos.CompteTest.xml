@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fr.eanathos.CompteTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2025-01-29T09:15:58" hostname="PC-NATHAËL" time="0.188">
+  <properties/>
+  <testcase name="Test de la méthode debiter avec un montant négatif" classname="fr.eanathos.CompteTest" time="0.057"/>
+  <testcase name="Test de la méthode getTitulaire" classname="fr.eanathos.CompteTest" time="0.034"/>
+  <testcase name="Test de la méthode estADecouvert" classname="fr.eanathos.CompteTest" time="0.006"/>
+  <testcase name="Test de la méthode getDebitAutorise" classname="fr.eanathos.CompteTest" time="0.001"/>
+  <testcase name="Test de la méthode toString" classname="fr.eanathos.CompteTest" time="0.031"/>
+  <testcase name="Test de la méthode effectuerVirement avec un montant supérieur au solde" classname="fr.eanathos.CompteTest" time="0.003"/>
+  <testcase name="Test de la méthode crediter avec un montant négatif" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <testcase name="Test de la méthode setDecouvertMaximal" classname="fr.eanathos.CompteTest" time="0.001"/>
+  <testcase name="Test de la méthode getNumeroCompte" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <testcase name="Test de la méthode effectuerVirement avec un montant négatif" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <testcase name="Test de la méthode debiter avec un montant positif" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <testcase name="Test de la méthode debiter avec un montant supérieur au débit maximal autorisé" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <testcase name="Test de la méthode getDebitMaximal" classname="fr.eanathos.CompteTest" time="0.001"/>
+  <testcase name="Test de la méthode getDecouvertMaximal" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <testcase name="Test de la méthode crediter avec un montant positif" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <testcase name="Test de la méthode effectuerVirement avec un montant positif valide" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <testcase name="Test de la méthode getSolde" classname="fr.eanathos.CompteTest" time="0.001"/>
+  <testcase name="Test de la méthode effectuerVirement avec un montant supérieur au débit maximal autorisé" classname="fr.eanathos.CompteTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
